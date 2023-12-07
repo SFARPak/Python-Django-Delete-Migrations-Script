@@ -9,7 +9,11 @@ Feel free to contribute.
 
 ### Usage
 Download script
+```
 wget https://github.com/SFARPak/Python-Django-Delete-Migrations-Script/blob/main/delete_migrations.sh
+```
 
-### Run 
+### Run
+```
 sh delete_migrations.sh
+```
