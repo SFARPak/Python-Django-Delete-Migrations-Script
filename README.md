@@ -1,0 +1,1 @@
+# Python-Django-Delete-Migrations-Script
