@@ -8,7 +8,30 @@ Feel free to contribute.
 
 
 ### Usage
-Download script
+Download script in the Directory where all of your apps are located if apps are in Root Folder You need to download in the Root Folder. See the folder Tree Structure below for reference:
+```
++---apps
+|   +---cart
+|   +---core
+|   +---core_api
+|   +---customer
+|   +---order
+|   +---product
+|   +---product_api
+|   +---delete_migrations.sh   <<<<<<<< This is the location of Script
++---certs
++---public
+|   +---media
+|   +---static
++---project
+|   +---__pycache__
++---winenv
+|   +---Include
+|   +---Lib
+|   +---Scripts
+```
+
+#### Download
 ```
 wget https://github.com/SFARPak/Python-Django-Delete-Migrations-Script/blob/main/delete_migrations.sh
 ```
